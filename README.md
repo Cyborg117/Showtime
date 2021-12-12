@@ -47,7 +47,7 @@ These are universal data structures. Virtually all modern programming languages 
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/33039708/145715934-da31c6d6-3a8b-4771-99c9-c6d06b4fc36d.png)   ![image](https://user-images.githubusercontent.com/33039708/145715996-cc964267-1c09-44a5-9b9e-a389acf45cd9.png)
+![image](https://user-images.githubusercontent.com/33039708/145715934-da31c6d6-3a8b-4771-99c9-c6d06b4fc36d.png) ![image](https://user-images.githubusercontent.com/33039708/145715996-cc964267-1c09-44a5-9b9e-a389acf45cd9.png)
 
 ![image](https://user-images.githubusercontent.com/33039708/145716058-6487b043-3e8e-4ed4-a4ea-c73070e8343f.png)
 
